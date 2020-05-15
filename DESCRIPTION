@@ -1,0 +1,14 @@
+Package: MVDN
+Type: Package
+Title: Matrix-variate Differential Network Analysis
+Version: 1.1.1
+Author: Jiadong Ji
+Maintainer: Jiadong Ji <jiadong@sdufe.edu.cn>
+Description: Matrix-Variate Differential Network (MVDN) model which is particularly useful in modelling
+    connectivity alteration for matrix-variate data such as in brain connectivity analysis. Directly
+    estimate the spatial partial correlation matrix difference.
+License: GPL-2
+Encoding: UTF-8
+Imports: igraph
+NeedsCompilation: yes
+Packaged: 2020-05-15 15:18:37 UTC; JD JI
