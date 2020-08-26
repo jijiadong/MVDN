@@ -1,5 +1,8 @@
 # Matrix-variate Differential Network Analysis
 
+
+**Cite:** Ji, J., He, Y., Liu, L., & Xie, L. (2019). Brain connectivity alteration detection via matrix‐variate differential network model. _Biometrics_. [https://doi.org/10.1111/biom.13359](https://onlinelibrary.wiley.com/doi/10.1111/biom.13359)
+
 ## Install
 ```{r}
 # install.packages(“devtools”)
